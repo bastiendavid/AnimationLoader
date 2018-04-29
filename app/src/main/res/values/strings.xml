@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimationLoader</string>
+    <string name="button_lottie_animation">Lottie animation</string>
+    <string name="button_animated_drawable_vector">Animated drawable vector</string>
+</resources>
